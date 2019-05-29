@@ -3,8 +3,17 @@
 En este respositorio se encuentra la practica de  Entornos de Desarrollo sobre     **Javadoc**. 
 
 ## Números complejos
-Este programa nos permite realizar las siguientes operaciones con los numeros Complejos :
+Este programa nos permite realizar las siguientes operaciones con los numeros Complejos , pero para ello debe tener unos atributos los cuales son :
+
+**Programa Principal:**
+
 ![Añadir imagen Aqui](https://github.com/Fabiobr27/Practica-Entornos/blob/master/Imagenes/Programa%20Principal%20.png)
+
+
+**Atributos:**
+--
+![Añadir imagen Aqui](https://github.com/Fabiobr27/Practica-Entornos/blob/master/Imagenes/Constructor.png)
+
 
 -**Sumar Números Complejos:**
 --
