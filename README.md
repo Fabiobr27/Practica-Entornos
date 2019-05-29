@@ -7,4 +7,4 @@ Una vez hecho la documentación le damos a analizar Javadoc y nos quedaria de es
 
   
 
-A este enlace he recurrido para solucionar alguna duda que me ha surjido : https://www.markdownguide.org/basic-syntax/
+A este enlace he recurrido para solucionar alguna duda que me ha surgido : https://www.markdownguide.org/basic-syntax/
